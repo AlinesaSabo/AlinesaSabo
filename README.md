@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./foto.webp" align="center" style="width: 200px; border-radius: 50%;" />
-</div>
+
 
 <h1 align="center">Hi there, I'm Alina! 👋👩‍💻</h1>
 

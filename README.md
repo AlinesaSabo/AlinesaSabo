@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://alina.github.io/foto.webp" align="center" style="width: 100%" />
+<img src="https://alina.github.io/foto.webp](https://github.com/AlinesaSabo/AlinesaSabo/blob/main/foto.webp" align="center" style="width: 100%" />
 </div>  
   
 

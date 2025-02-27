@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./foto.webp" align="center" style="width: 200px; border-radius: 50%;" />
-</div>
-
 <h1 align="center">Hi there, I'm Alina! 👋👩‍💻</h1>
 
 <p align="center">
@@ -9,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" />
+  <img src="./Woman Coding GIF by Pluralsight.gif" width="500" />
 </div>
 
 ---
